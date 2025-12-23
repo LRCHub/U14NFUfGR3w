@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "スロウダウナー",
+  "base_track": "スロウダウナー（feat. 宵崎奏、朝比奈まふゆ、東雲絵名、暁山瑞希）",
   "base_artist": "25時、ナイトコードで。",
-  "createdAt": "2025-12-05T14:58:16.150238Z",
+  "createdAt": "2025-12-23T06:30:06.457370Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -11,14 +11,6 @@
       "artist": "25時、ナイトコードで。",
       "has_synced": true,
       "path": "select/01_スロウダウナー_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "スロウダウナー",
-      "artist": "25時、ナイトコードで。",
-      "has_synced": false,
-      "path": "select/02_スロウダウナー_25時、ナイトコードで。.txt"
     },
     {
       "id": "petitlyrics_1",
